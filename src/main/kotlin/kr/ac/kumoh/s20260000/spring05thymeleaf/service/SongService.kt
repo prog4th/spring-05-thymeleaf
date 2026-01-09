@@ -19,7 +19,7 @@ class SongService(
 
     /**
      * 랜덤으로 노래 한 곡 얻음
-     * **NOTE:** 리스트가 많을 때는 성능 저하 우려
+     * - **NOTE:** 리스트가 많을 때는 성능 저하 우려
      */
     fun getRandomSong() = repository.findAll().randomOrNull()
 

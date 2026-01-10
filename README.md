@@ -11,3 +11,8 @@ https://url.kr/smsp4w
 https://zrr.kr/hVeU1l
 
 <img width="150" alt="image" src="https://github.com/user-attachments/assets/2574d1cf-7da6-43fb-9a7a-c15aa91fe6e5" />
+
+---
+https://nano5.notion.site/Thymeleaf-2dadaf211d4281488686c62a4fd288c8?source=copy_link
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/6fdd4b62-18ae-4015-ae68-f1e0b4ab65bb" />
